@@ -20,7 +20,7 @@ export default class Footer extends Component {
                   )
                 })}
             </ul>
-            <p className='wm-copyright'>© 2020 Waseem Mohammed.</p>
+            <p className='wm-copyright'>© Copyright 2020 Waseem Mohammed.</p>
           </div>
 
           <div id="go-top">
