@@ -1,0 +1,15 @@
+.skills-logos {
+  padding: 5%;
+  margin-left: 5%;
+}
+
+.logo {
+  padding: 3%;
+}
+.tech-skills {
+  font: 200% 'opensans-bold', sans-serif;
+  color: #11ABB0;
+  letter-spacing: -2px;
+  margin: 0 auto 18px auto;
+  /* text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.8); */
+}

@@ -1,0 +1,21 @@
+.contact-message {
+  text-align: center;
+  font: 200% 'opensans-bold', sans-serif;
+  color: #11abb0;
+  letter-spacing: 2px;
+  margin: 0 auto 18px auto;
+  text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.8);
+  margin-bottom: 5%;
+}
+
+
+.message-input {
+  height: 300px;
+  color: black;
+}
+
+@media screen and (min-width: 600px) {
+  form {
+    margin-left: 39%;
+  }
+}

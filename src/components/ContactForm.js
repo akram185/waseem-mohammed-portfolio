@@ -1,4 +1,5 @@
 import React from 'react'
+import './ContactForm.css'
 
 export default class ContactForm extends React.Component {
   constructor(props) {
@@ -12,17 +13,20 @@ export default class ContactForm extends React.Component {
   render() {
     const { status } = this.state
     return (
-      <form
-        onSubmit={this.submitForm}
-        action="https://formspree.io/mgeperpv"
-        method="POST"
-      >
-        <input placeholder="Email" type="email" name="email" />
-        <input placeholder="Phone" type="text" name="phone" />
-        <input placeholder="Message" type="text" name="message" />
-        {status === 'SUCCESS' ? <p>Thanks!</p> : <button>Submit</button>}
-        {status === 'ERROR' && <p>Ooops! There was an error.</p>}
-      </form>
+      <section id="contact">
+        <p className='contact-message'>Let's Work Together</p>
+        <form
+          onSubmit={this.submitForm}
+          action="https://formspree.io/mgeperpv"
+          method="POST"
+        >
+          <input className='email-input' placeholder="Email" type="email" name="email" />
+          <input className='email-input' placeholder="Phone" type="text" name="phone" />
+          <input className='message-input' placeholder="Message" type="text" name="message" />
+          {status === 'SUCCESS' ? <p>Thanks!</p> : <button>Submit</button>}
+          {status === 'ERROR' && <p>Ooops! There was an error.</p>}
+        </form>
+      </section>
     )
   }
 
