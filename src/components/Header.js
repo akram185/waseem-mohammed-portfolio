@@ -26,7 +26,7 @@ export default class Header extends Component {
               <li>
                 <a
                   target="_blank"
-                  href="https://docs.google.com/document/d/1Eb9zLpDQoFK1mUaTuUeR7AMkou58H8Kyjj2EN5e3z_E/edit?usp=sharing"
+                  href="https://pdfhost.io/v/RxM0s29dA_Waseem_Mohammed_Resume_GA_1pdf.pdf"
                 >
                   Resume
                 </a>
