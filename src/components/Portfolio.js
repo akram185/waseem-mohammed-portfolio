@@ -6,7 +6,7 @@ class Portfolio extends Component {
   render() {
     return (
       <>
-        <h1 className="my-work">Checkout My Work</h1>
+        <h1 className="my-work">Check Out My Work</h1>
         <div>
           <div>
             <div>
