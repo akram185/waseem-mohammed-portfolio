@@ -964,7 +964,7 @@ footer {
 }
 .wm-copyright {
   color: rgb(255, 255, 255);
-  font-size: 150%;
+  /* font-size: 150%; */
   font-family: sans-serif;
 }
 footer a,
