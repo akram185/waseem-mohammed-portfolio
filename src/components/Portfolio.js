@@ -75,8 +75,7 @@ const workData = [
     title: 'The Door',
     description:
       'Reproduced a high fidelity UX design mock-up in an agile team using React, React Router, Express, Mongoose, MongoDB, JavaScript, JSX, CSS, Formik and Bootstrap. Deployed Back-End through Heroku and Front-End through Netlify. Web Page was faithfully recreated in a fully-functional format. CRUD was implemented on the Back-End and the Front-End.',
-    imageURL:
-      'https://lh3.googleusercontent.com/fNqY3TLeVHVbFmfpqbNjaUj8JTNNAU3glzXf8jPcI41tbT7-fICAntqlH7FmqC4qI5d4WrPW8tGTL5Y4-HRDDNgV1nJDSQueqR4MTUe5dDzEaCSEdXMEZFIBTVGrLJOGxAmW0PZpR39_96h30tGfrDmXKRg1tVk7YuHqS6Fawu0SXmfx8U8hdjra-qMcvycpmiyAwWthlP84LIM_9P3tf9Om0TCY9BtvVtWxCAscnUO3rwkvoiO38z5aarujS0T706DSmCtOxoAkMGH63rAJ7ravy6HuePqYwX0oil5JtIH6Rnjig9dxDm8uUq776C7Jv7Tz--nmQvru1j7FNmJUIC8N2A1bQh6dtw25lhVqLJE0W8G71WUlswdRBuAdcUraMoRIrv2YS2HyLXaEbJwovZRC1WiHbjLpv4Vh0jq1XaJlehoE8gsyjhe474FfLPE-1AcCRumq-q82Nubn4MzT8uriR_Da8kjMZh4e8pOZDdWyNbUmqm63CLuYSj08SFySbQQLiMOtGxXYD1r-5E4N_KNJYVjR_Ql2p3NoOGKY1JtKABjHyMwl-1JJJCddWU1LfNe9e57daWDn-d427YX52BoEjlkHS_EBFoo2exJ3qiyoEfqXBX6UJCpqLcTUtRwsjZcPNpI7B0xOl2z4qDwhAAVUL_hteuNmujZ-QnOrrgO1DQZdKwcQmuIU2AxI=w1676-h958-no?authuser=0',
+    imageURL: 'https://i.ibb.co/3kDJBsj/p3-pic.png',
     liveDemo: 'https://the-door-nyc.netlify.app/',
     code: 'https://github.com/akram185/The-Door',
   },
