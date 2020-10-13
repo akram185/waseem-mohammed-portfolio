@@ -59,7 +59,7 @@ const workData = [
     description:
       'Built an amazing web application using vanilla JS, high level CSS and Dynamic HTML. Web Page takes user input and displays the results of the highschool in each borough on the DOM.',
     imageURL:
-      'https://lh3.googleusercontent.com/2URmWyeIu8biS1X2NmW9QJmOa_pW4jR4In2qcxWmaggLXxr-Hwr2rLk9YJLkKm7G7AqGQT3rYucTOVRRSItHvGAYj_yODvt9jrRowZ3icQlYtloh2EukckgJdG68VytvWIcGEuhRvyLo9RUyuI2dSZxfKJ5udaGJ6uEQCJq7TQRSdUVlNczFOJk4UBE8jDkzud4r6PXC9UPUBHfqRRZkpYlA2LSaUffGki1wxVq-FWmjs8aGZzKRAZeZbr7Wn5_qzf5ba_w8Fiw__exWNmXFm3RGFnmY6rxGZreVne9ssf44mDUpSVM_AzptzDyT1TtuhZidNlzNNBxlaRW4qIussRcwNga3S-dQnFVYrJStYPz4R298H3spZUhnoKpCQpw-KVZyZBjbPvO9g0X7U1EXiJInrl6h0Zef7H2U6d6XxWEdyDUdaHXKTJ-tRMzKZylfcjL3sMbvEaNY3JoU_YHN-iei8OLtu9Tvzkte18xh8U0MnqnwAdRff4HdlrDoYohv6fKwlF8x6Jfw80bPzUI7JW17aHdzQR0tnXNrM_i73oJE-80qXj7r69n04ck9Cx8nPD3f9CSCOMWonO34u-MpXsvQG_UoDujY_bWCxfwYkuhWWgPBIL2QSKhLlJjG8xxJewKpDHMP67Azj13m2SFfIuNQjIHfSrBK87yzijTOXJY1lWT1UdsDV0BZKzaf=w1676-h954-no?authuser=0',
+      'https://i.ibb.co/tq6Yp4w/Screen-Shot-2020-09-25-at-5-07-55-PM.png',
     liveDemo: 'https://pages.git.generalassemb.ly/akram185/High-School-Finder/',
     code: 'https://git.generalassemb.ly/akram185/High-School-Finder',
   },
