@@ -83,8 +83,7 @@ const workData = [
     title: 'EZ Rentals',
     description:
       'A fully functional Full-Stack application developed using Ruby on Rails on the Back-End and React, JavaScript, CSS, JSX on the Front-End. Web Page has user authentication, MVC, Full CRUD on Back-End and Front-End. Users have one to many associations with the cars and cars have many to many associations with the types.',
-    imageURL:
-      'https://lh3.googleusercontent.com/SVl7St9aCgrJgi7X0NmjL_aAqrtTHiSpsfH-JT5Yt3W9l3P0UcIvoNRYDOm4nu6oHGTFa3R9JEntZbWMrp-LudjTnKYKMIulZJvuCR27_E118E2C446aL6-m9_UAaXLW7alGN-xtehSDwHWjNT4w69Tx2f2_e0K4bNBox_ncfSNMgxiDUqovitbF_i5oS898kuysoVuDRWbiTliiPECNVIi5Au9jCq0AlsyymX5ay03WBrCSGiPChSAMWFKnUZM83XD5NmNGt12HIZ0kKo-6PNIqM_9xEZh2zbL5ZMoD_pmYT5ufzWlWHuY-j_iE4_w_AA44Xs9CvYi9FRbzZGv7KZ0COWEYSrkyQtPoRsWb70HPnercc-Rq-N0PelTr6QTzLKe8sDnsOkXQgnkWF_Hu8dXtxTUMYksMQ0-fGXkSpAX6EkigtinOtT_IxShgQ_67_2qX6J4CQTJd95uT3lKK6e0lN3tLGig-m3_1-BWT4iA844vojO5a-0Jfa6ByE4F-Gd5VzKsHALYiwGqWBkarwpxhEQse55pVIyHTe7xFgr_6bpJyrxpZMWRidHMgbKGwi1b7d_KbtIAEf7D1jrAqcP2Gl4ovZh5XZqdMCsz-HcV2xAJE8I00Ho_uzHWbnY0elH9rSj1rt8ht3amvE10J6UGDk5gVWtfknRKsqTJUeWvl44PxNS_g9RCei7UM=w1676-h954-no?authuser=0',
+    imageURL: 'https://i.ibb.co/D8p3gVG/p4-pic.png',
     liveDemo: 'https://ez-rentals.netlify.app/',
     code: 'https://github.com/akram185/EZ-Rentals',
   },
