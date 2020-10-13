@@ -67,8 +67,7 @@ const workData = [
     title: 'Royale Moto',
     description:
       'A full-stack web application developed using React, JavaScript, Bootstrap, Airtable, Node.js. Web Page displays the collection of motorcycles. The cool feature of this app is that the user can add motorcycles of their choice to the collection.',
-    imageURL:
-      'https://lh3.googleusercontent.com/r91i3Efn3hMsO-9jBUIAsLTFSMkQpt2T7_EQp5MHI7Nu1RDAUMfHdkSTIo3KWq4Gt_Eg29llmtBLwrK-_tq_jAj8mOdK_JWbat7s-vOawMnHhWQiaPCmO_A9K1uHR7cc7HDLFz_peataAeE2aYarL0Sn4Hh5IkaV6F35q3oQQouef2aJ9pggjDCIAdp35uaF1-6r-1s6qXfQJVGmcWJXI2l8qFscWRXzNDQKmyOD2wRvwwrI6Xwm-5ofYkSFP3n0OdzGD6moZ_pOdiuVGJ4hBkcqO_ABhO5OqiOzIQQ0AbSnTMZ9kcw1-5IgkoCChr87ctV1ZF-FLLbuAG18zbxzXkv4EMiZupNf6e5kJaMmyaqiNOErgfhIsRgs0sxxpxo5KUGEkuMOAg-8ufnn6QRK-UCrCnoN4Nr7x7HCuZQBWzx1JlS9mCgAXXcDTRY8OPU2CiYh-Uzsc6w-gHLPHZZSfvAILNLfc3f8Pi1AvOZVZ5z4-ixK-1bf0iGpGnUTTogNvjqn0-seNv2vSi9UnLvHofuqpYsVh-hDuOxewxptCcqJOzRBTwuwQLcUbBI_oO2NW6hbJDeIZ1k3Ag9Uxg68ZLeCoXYujFmep9q-oBlUMky6rawf8xIfw4tr85lP_hd4wmyI9NSCg9_7Ptzh2zPAhgz_niLui8b0Hut860BI1aB-k2iwQpu93eIj_yz5=w1676-h956-no?authuser=0',
+    imageURL: 'https://i.ibb.co/LZsYFKd/p2-pic.png',
     liveDemo: 'https://royalemoto.netlify.app/',
     code: 'https://github.com/akram185/Royale-Moto',
   },
